@@ -17,4 +17,18 @@
 - *ls -a Lista o conteúdo até os arquivos ocultos.*
 - *ls -s Lista o conteúdo com tamanho alocado de cada arquivo, em bloco.*
 
+# *Criar e Atualizar o Conteúdo (touch)*
 
+- *(Touch) Usado para criar arquivos vazios ou alterar data e hora do arquivo*
+- *Criar Múltiplos Arquivos* **touch file_name1.txt file_name2.txt file_name3.txt
+- *Alterar Hora de acesso* **touch -a file_name.txt**
+- *Alterar Hora da Modificão* **touch -m file_name1.txt
+- *Alterar Hora de Acesso sem Criar um Novo Arquivo* **touch -c file_name.txt**
+- *Definir Hora Específica de Acesso e Modificação Usando Touch* **touch -t 202012081047.30 file.txt**
+- # *CCYYMMDDhhmm.ss*
+- *CC -* **Os dois primeiros dígitos do ano.**
+- *YY -* **Os dois dígitos subsequentes do ano.**
+- *MM -* **O mês**
+- *DD -* **O dia**
+- *mm -* **O minuto**
+- *ss -* **O segundo**
