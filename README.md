@@ -3,7 +3,7 @@
 - *Shell em computação é um interface de usu para acessar os serviços de um sistema operacional;* 
 - *Script é uma linguagem de programação que executa no sistema em tempo de execução, muito utilizado para automação.
 
-# *(cd) - Mudar diretório
+# *(cd) - Mudar diretório*
 
 - *cd é um acrônimo da expressão inglesa change directory.*
 - *cd / Abre o diretório raiz do sistema.*
