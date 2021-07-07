@@ -49,4 +49,4 @@
 
 # *Copiar arquivos (cp)*
 
--*cp -* **Permite copíar arquivos ou diretóris para outro local.**
+- *cp -* **Permite copíar arquivos ou diretóris para outro local.**
