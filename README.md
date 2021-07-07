@@ -40,5 +40,10 @@
 - *Unir arquivos*
 - *Exibir arquivos*
 - *Colocar o resultado em um outro arquivo **cat arq1 > arq_final** redirecionador de saída >*
-- *Para parar a rolagem da tela e permitir a navegação use o pipe "|"
+- *Para parar a rolagem da tela e permitir a navegação use o pipe "|"*
 - **More** *ou* **less**
+
+# *Mover arquivos (mv)* 
+
+- *mv -* Move arquivos e diretório e renomeia arquivos e diretórios.
+- 
