@@ -46,4 +46,7 @@
 # *Mover arquivos (mv)* 
 
 - *mv -* Move arquivos e diretório e renomeia arquivos e diretórios.
-- 
+
+# *Copiar arquivos (cp)*
+
+-*cp -* **Permite copíar arquivos ou diretóris para outro local.**
