@@ -32,3 +32,10 @@
 - *DD -* **O dia**
 - *mm -* **O minuto**
 - *ss -* **O segundo**
+
+# *Visualizar Conteúdo do Arquivo (cat)*
+
+- **(cat) concatenate (concatenar)
+- *Criar arquivos*
+- *Unir arquivos*
+- *Exibir arquivos*
