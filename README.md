@@ -35,7 +35,7 @@
 
 # *Visualizar Conteúdo do Arquivo (cat)*
 
-- **(cat) concatenate (concatenar)
+- **(cat) concatenate (concatenar)**
 - *Criar arquivos*
 - *Unir arquivos*
 - *Exibir arquivos*
