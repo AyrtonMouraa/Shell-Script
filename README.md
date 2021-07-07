@@ -41,4 +41,4 @@
 - *Exibir arquivos*
 - *Colocar o resultado em um outro arquivo **cat arq1 > arq_final** redirecionador de saída >*
 - *Para parar a rolagem da tela e permitir a navegação use o pipe "|"
-- **More *ou* **less**
+- **More** *ou* **less**
