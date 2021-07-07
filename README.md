@@ -50,3 +50,16 @@
 # *Copiar arquivos (cp)*
 
 - *cp -* **Permite copíar arquivos ou diretóris para outro local.**
+- *Sem confirmação de existência ou não, exceto se usar a flag **-i** (interativo)*
+- *Nenhuma saída será exibida, exceto se usar o flag opção **-v** (verbose)*
+
+# *Criando Diretórios mkdir*
+
+- **mkdir -** *Criar diretório*
+
+# *Remover Arquivos (rm)*
+
+- **rm -** *Remove arquivos*
+- **-f -** *Remove os arquivos sem perguntar.*
+
+
