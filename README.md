@@ -69,3 +69,12 @@
 - **find ./ -type d -name "meu* :** *Mostrar todas as informações que estiverem com nome "meu"*
 - **find ./ -type f -name ".*" :** *Para procurar arquivos ocultos*
 - **man -** *mostra informações sobre o comando utilizado* 
+
+# *Comparar diferença entre arquivos (diff)*
+
+- **diff -** Faz comparação entre arquivos e diretórios.
+
+# *Remover Diretório (rmdir) (rm -rf)*
+
+- **rmdir -** Remover diretório vazio
+- **rm -rf -** Diretório não vazio
