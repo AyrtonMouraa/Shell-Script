@@ -62,4 +62,10 @@
 - **rm -** *Remove arquivos*
 - **-f -** *Remove os arquivos sem perguntar.*
 
+# *Procurar por arquivos (find)*
 
+- **find -** *Procurar arquivos*
+- **find ./ -type f -name "o" :** *Procurar arquivos com letra "o"*
+- **find ./ -type d -name "meu* :** *Mostrar todas as informações que estiverem com nome "meu"*
+- **find ./ -type f -name ".*" :** *Para procurar arquivos ocultos*
+- **man -** *mostra informações sobre o comando utilizado* 
