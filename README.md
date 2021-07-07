@@ -70,7 +70,7 @@
 - **find ./ -type f -name ".*" :** *Para procurar arquivos ocultos*
 - **man -** *mostra informações sobre o comando utilizado* 
 
-# *Comparar diferença entre arquivos (diff)*
+# *Comparar Diferença entre Arquivos (diff)*
 
 - **diff -** Faz comparação entre arquivos e diretórios.
 
@@ -78,3 +78,11 @@
 
 - **rmdir -** Remover diretório vazio
 - **rm -rf -** Diretório não vazio
+
+# *Trabalhando com Variáveis (env)*
+
+- **env -** Variáveis de ambiente
+- **PS1:** *Prompt da linha de comandos
+- **HOME:** *Diretório "/home" de usuário
+- **PATH:** *Lista de diretórios vasculhados um comando é executado
+
